@@ -1,0 +1,8 @@
+Pour utiliser le tool il vous suffi de 
+
+1. Lancer le fichier nommé "Start.bat" pour installer les module nescessaire
+(le tool se lancera automatiquement a la fin)
+
+2. Et pour finir il suffit simplement de lancer le fichier nommé "Start.bat"
+
+3.Pour Trouver les db Si vous souhaiter en rajouter se situe dans data/dump et voila
